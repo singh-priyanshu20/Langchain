@@ -10,3 +10,5 @@ sse_starlette
 pypdf
 chromadb
 faiss-cpu
+lancedb
+sentence-transformers
