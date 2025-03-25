@@ -12,3 +12,5 @@ chromadb
 faiss-cpu
 lancedb
 sentence-transformers
+arxiv
+wikipedia
