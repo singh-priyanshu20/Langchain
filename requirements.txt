@@ -14,3 +14,10 @@ lancedb
 sentence-transformers
 arxiv
 wikipedia
+beautifulsoup4
+langchain-groq
+groq
+bs4
+langchainhub
+PyPDF2
+langchain-objectbox
