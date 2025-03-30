@@ -21,3 +21,7 @@ bs4
 langchainhub
 PyPDF2
 langchain-objectbox
+huggingface_hub
+transformers
+torch
+accelerate
